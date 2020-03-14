@@ -10,11 +10,12 @@
     font-weight: 400;
 }
 .main-button{
-    background-color: goldenrod;
-    width:150px;
+    background-color: cyan;
+    width:50px;
     height:30px;
     border:1px solid darkgray;
     border-radius: 5px;
     padding-right: 5px;
     cursor: pointer;
+    
 }

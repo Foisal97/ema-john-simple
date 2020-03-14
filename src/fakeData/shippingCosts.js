@@ -1,6 +1,6 @@
 var shippingCost = [
     {
-        price: 0,
+        price: 10,
         days: '8-10',
         type: 'Free',
         isSelected:false

@@ -1,5 +1,6 @@
 .header img{
-    height:80px;
+    height:280px;
+    width:100%;
    
     
 }
@@ -7,16 +8,16 @@
     text-align: center;
 }
 .header nav{
-    background-color: black;
-    line-height: 40px;
-    font-size: 20px;
+    background-color: cyan;
+    line-height: 80px;
+    font-size: 30px;
 
 }
 nav a{
     text-decoration: none;
     color:white;
     margin-right: 25px;
-    padding:5px;
+    padding:15px;
     
 }
 nav a:hover{
